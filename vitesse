@@ -39,4 +39,5 @@ int main{
         }
         sleep(1); //pause de 1 seconde
     }
+    return tour_du_joueur; //retourne le joueur qui joue
 }
